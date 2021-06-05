@@ -4,7 +4,6 @@
 from random import seed
 from random import randint
 
-global numSixes
 
 class Shadowrun_Dice ():
     def initialRoll():
