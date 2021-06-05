@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 #import random
-from random import seed
 from random import randint
 
 
